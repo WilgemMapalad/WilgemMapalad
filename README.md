@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about coding and database managemen
 ## Skills
 
 - 💻 **Programming Languages**
-            <img>(https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48)<img/>, JavaScript
+            ![image](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/2e089109-9c1f-4805-a2a5-4843aba1dbf9), JavaScript
 - 🛢️ **Databases**: IBM DB2 Cloud
 - 🛠️ **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
