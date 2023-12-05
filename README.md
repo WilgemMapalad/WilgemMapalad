@@ -16,7 +16,11 @@ Welcome to my GitHub profile! I'm passionate about coding and database managemen
 ## Skills
 
 - 💻 **Programming Languages**:
-            ![java](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/a656edde-d42c-4722-8da4-016035ed8cce)
+
+
+![java](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/a656edde-d42c-4722-8da4-016035ed8cce) 
+![javascript](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/73177641-a09b-4c09-ba27-7955fdd72b19)
+
 
   
          
