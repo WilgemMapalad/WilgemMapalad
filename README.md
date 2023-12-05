@@ -15,17 +15,29 @@ Welcome to my GitHub profile! I'm passionate about coding and database managemen
 
 ## Skills
 
-- 💻 **Programming Languages**:
+- 💻 **Programming Languages**
 
 
 ![java](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/a656edde-d42c-4722-8da4-016035ed8cce) 
 ![javascript](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/73177641-a09b-4c09-ba27-7955fdd72b19)
 
 
-  
-         
-- 🛢️ **Databases**: IBM DB2 Cloud
+     
+- 🛢️ **Databases**
+
+
+![IBM](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/a40f5ed5-98f0-4a29-a4d0-b1df67a9cd3e)
+
+
+
 - 🛠️ **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+
+![lucidchart](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/7dacb242-c681-49f7-9216-f75f4787d690)
+![jaspersoft](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/7de06feb-c76d-4e3c-906e-11d4f68b1c21)
+![eclipse](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/059b2a9d-80ec-4450-a2b7-cc17e15fedca)
+![HTML](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/d0f8e7f3-7580-4a74-8e63-ccb3a0fee18d)
+
 
 ## Connect with Me
 
