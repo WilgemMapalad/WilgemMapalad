@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Wilgem T. Mapalad
 
-Welcome to my GitHub profile! I'm passionate about coding and database management, and I love solving complex problems with elegant solutions.
+Welcome to my GitHub profile! I'm passionate about coding and databases, finding elegant solutions for complex problems. Join me on this coding journey, where simplicity meets effectiveness, and challenges are opportunities for creative solutions.
 
 ## About Me
 
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about coding and database managemen
 
 
 
-- 🛠️ **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- 🛠️ **Tools**
 
 
 ![lucidchart](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/7dacb242-c681-49f7-9216-f75f4787d690)
@@ -41,5 +41,5 @@ Welcome to my GitHub profile! I'm passionate about coding and database managemen
 
 ## Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/wilgem-mapalad-345909276/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📧 Email: wilgemmapalad714@gmail.com
+- LinkedIn: [Wilgem Mapalad](https://www.linkedin.com/in/wilgem-mapalad-345909276/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: wilgemmapalad714@gmail.com
