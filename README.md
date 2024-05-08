@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm passionate about coding and databases, finding
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=905EE08407389F1ECE82AE210060510F1615FDC5D9FF74FDA96757C8B3F09F9A&fbclid=IwAR2-M26Dw9fUK1b4RoByxxYX59lFAyqFZMdLYyD3cnz356wbkqlN8aZfBQU)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D9E6B8EBB15E06B3A1621BD37D817A7493D63A5F1F1A485AA6EF0094395F8AF4&fbclid=IwAR0GsrLssynPaMWv_bEwIlkMMfGZQnNefuaSeeFixQLEeQpk4XBHsba3YRA)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f0d5518dfd5a4de480479faa0b276bc9)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/c5e07481ccc840f3b10ea387ef354e89)
 
 ## Skills
 
