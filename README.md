@@ -21,14 +21,20 @@ Welcome to my GitHub profile! I'm passionate about UI/UX design for web and mobi
 
 ![java](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/a656edde-d42c-4722-8da4-016035ed8cce) 
 ![HTML](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/d0f8e7f3-7580-4a74-8e63-ccb3a0fee18d)
+![XML](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/d0f8e7f3-7580-4a74-8e63-ccb3a0fee18d)
+![Python](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/d0f8e7f3-7580-4a74-8e63-ccb3a0fee18d)
+
 
 
 - **Tools**
 
 
-![lucidchart](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/7dacb242-c681-49f7-9216-f75f4787d690)
-![jaspersoft](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/7de06feb-c76d-4e3c-906e-11d4f68b1c21)
-![eclipse](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/059b2a9d-80ec-4450-a2b7-cc17e15fedca)
+![Lucidchart](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/7dacb242-c681-49f7-9216-f75f4787d690)
+![Android Studio](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/7dacb242-c681-49f7-9216-f75f4787d690)
+![Adobe Photoshop](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/7dacb242-c681-49f7-9216-f75f4787d690)
+![PowerBI](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/7dacb242-c681-49f7-9216-f75f4787d690)
+![Figma](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/7dacb242-c681-49f7-9216-f75f4787d690)
+![Eclipse](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/059b2a9d-80ec-4450-a2b7-cc17e15fedca)
 
 
 ## Connect with Me
