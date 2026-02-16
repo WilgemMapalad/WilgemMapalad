@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Wilgem T. Mapalad
 
-Welcome to my GitHub profile! I'm passionate about coding and databases, finding elegant solutions for complex problems. Join me on this coding journey, where simplicity meets effectiveness, and challenges are opportunities for creative solutions.
+Welcome to my GitHub profile! I'm passionate about UI/UX design for web and mobile applications, creating intuitive and visually engaging user experiences. I enjoy designing interfaces that are both simple and functional. Join me on this creative journey, where thoughtful design meets usability, and every challenge becomes an opportunity to improve user experience.
 
 ## About Me
 
@@ -20,15 +20,7 @@ Welcome to my GitHub profile! I'm passionate about coding and databases, finding
 
 
 ![java](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/a656edde-d42c-4722-8da4-016035ed8cce) 
-![javascript](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/73177641-a09b-4c09-ba27-7955fdd72b19)
-
-
-     
-- **Databases**
-
-
-![IBM](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/a40f5ed5-98f0-4a29-a4d0-b1df67a9cd3e)
-
+![HTML](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/d0f8e7f3-7580-4a74-8e63-ccb3a0fee18d)
 
 
 - **Tools**
@@ -37,10 +29,9 @@ Welcome to my GitHub profile! I'm passionate about coding and databases, finding
 ![lucidchart](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/7dacb242-c681-49f7-9216-f75f4787d690)
 ![jaspersoft](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/7de06feb-c76d-4e3c-906e-11d4f68b1c21)
 ![eclipse](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/059b2a9d-80ec-4450-a2b7-cc17e15fedca)
-![HTML](https://github.com/WilgemMapalad/WilgemMapalad/assets/136047878/d0f8e7f3-7580-4a74-8e63-ccb3a0fee18d)
 
 
 ## Connect with Me
 
-- LinkedIn: [Wilgem Mapalad](https://www.linkedin.com/in/wilgem-mapalad-345909276/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Wilgem Mapalad](https://www.linkedin.com/in/wilgem-mapalad-4582813b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: wilgemtmapalad@gmail.com
