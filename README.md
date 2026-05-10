@@ -2,7 +2,7 @@
 
 # Wilgem T. Mapalad
 
-**UI/UX Designer · Information Technology Student**
+**UI/UX · Information Technology Student**
 
 *Crafting intuitive interfaces where thoughtful design meets real usability.*
 
@@ -62,18 +62,6 @@ I'm a **BS Information Technology** student at **New Era University** with a pas
 ---
 
 </div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to collaborations, design feedback, or just a good conversation about UX!
-
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://wilgemmapalad.github.io)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilgem-mapalad-4582813b1)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilgemtmapalad@gmail.com)
-
----
 
 <div align="center">
   <sub>Wilgem Mapalad | 2026</sub>
